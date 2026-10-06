@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maadanteshwaritours.com/sitemap.xml
+Sitemap: https://maa-danteshwari-travels.vercel.app/sitemap.xml

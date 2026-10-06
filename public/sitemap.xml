@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://maadanteshwaritours.com/</loc>
+    <loc>https://maa-danteshwari-travels.vercel.app/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://maadanteshwaritours.com/travel/tilda-newra</loc>
+    <loc>https://maa-danteshwari-travels.vercel.app/travel/tilda-newra</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maadanteshwaritours.com/travel/raipur</loc>
+    <loc>https://maa-danteshwari-travels.vercel.app/travel/raipur</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maadanteshwaritours.com/travel/bilaspur</loc>
+    <loc>https://maa-danteshwari-travels.vercel.app/travel/bilaspur</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maadanteshwaritours.com/travel/durg</loc>
+    <loc>https://maa-danteshwari-travels.vercel.app/travel/durg</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maadanteshwaritours.com/travel/bhilai</loc>
+    <loc>https://maa-danteshwari-travels.vercel.app/travel/bhilai</loc>
     <priority>0.8</priority>
   </url>
 </urlset>

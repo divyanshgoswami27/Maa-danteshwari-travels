@@ -16,7 +16,7 @@
 const fs   = require('fs');
 const path = require('path');
 
-const BASE_URL = 'https://maadanteshwaritours.com';
+const BASE_URL = 'https://maa-danteshwari-travels.vercel.app';
 
 const ROUTES = [
   {

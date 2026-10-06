@@ -13,7 +13,7 @@ const BUSINESS = {
   secondaryPhone: '+91 79876 46354',
   secondaryWa: '917987646354',
   address: 'Vrindavan Colony Ke Pass, Tilda Newra, Chhattisgarh 493114',
-  website: 'https://maadanteshwaritours.com/'
+  website: 'https://maa-danteshwari-travels.vercel.app/'
 };
 
 const TXT = {
@@ -505,10 +505,10 @@ function CityPage({ lang }) {
     <Helmet>
       <title>{title}</title>
       <meta name="description" content={desc} />
-      <link rel="canonical" href={`https://maadanteshwaritours.com/travel/${city}`} />
+      <link rel="canonical" href={`https://maa-danteshwari-travels.vercel.app/travel/${city}`} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={desc} />
-      <meta property="og:url" content={`https://maadanteshwaritours.com/travel/${city}`} />
+      <meta property="og:url" content={`https://maa-danteshwari-travels.vercel.app/travel/${city}`} />
       <meta property="og:type" content="website" />
     </Helmet>
     <Header lang={lang} setLang={()=>{}} />
@@ -603,10 +603,10 @@ function Home({ lang, setLang, prefill, quick, route, vehicle, destination, serv
     <Helmet>
       <title>Maa Danteshwari Tour & Travels | Car Rental, Bus & Transport in Chhattisgarh</title>
       <meta name="description" content="Enquire for car rental, bus service, transport, and equipment across Chhattisgarh. Based in Tilda Newra, serving Raipur, Bilaspur, Durg, and beyond." />
-      <link rel="canonical" href="https://maadanteshwaritours.com/" />
+      <link rel="canonical" href="https://maa-danteshwari-travels.vercel.app/" />
       <meta property="og:title" content="Maa Danteshwari Tour & Travels | Car Rental, Bus & Transport in Chhattisgarh" />
       <meta property="og:description" content="Enquire for car rental, bus service, transport, and equipment across Chhattisgarh. Based in Tilda Newra, serving Raipur, Bilaspur, Durg, and beyond." />
-      <meta property="og:url" content="https://maadanteshwaritours.com/" />
+      <meta property="og:url" content="https://maa-danteshwari-travels.vercel.app/" />
       <meta property="og:type" content="website" />
     </Helmet>
     <Header lang={lang} setLang={setLang}/>
