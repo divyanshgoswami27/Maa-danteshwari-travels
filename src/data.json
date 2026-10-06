@@ -1,0 +1,623 @@
+{
+  "SERVICES": [
+    {
+      "value": "Car Rental",
+      "en": "Car Rental",
+      "hi": "कार रेंटल",
+      "descEn": "Car rental across Chhattisgarh for local, outstation and multi-day journeys. Suitable for family trips, business travel and everyday needs from Tilda Newra and surrounding districts.",
+      "descHi": "छत्तीसगढ़ भर में लोकल, आउटस्टेशन और कई दिन की यात्रा के लिए कार रेंटल। टिल्डा नेवरा और आसपास के जिलों से पारिवारिक, बिज़नेस और रोज़मर्रा की यात्रा के लिए।",
+      "whoEn": [
+        "Families planning outstation trips across Chhattisgarh",
+        "Business travellers in Raipur, Bilaspur, Durg",
+        "Small groups",
+        "Airport / station pickups subject to availability"
+      ],
+      "whoHi": [
+        "छत्तीसगढ़ भर में आउटस्टेशन यात्रा की योजना बनाने वाले परिवार",
+        "रायपुर, बिलासपुर, दुर्ग में बिज़नेस यात्री",
+        "छोटे ग्रुप",
+        "एयरपोर्ट / स्टेशन पिकअप (उपलब्धता के अधीन)"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M5 17h14M6 17v2M18 17v2M4 13l1.6-5A2 2 0 0 1 7.5 6.5h9A2 2 0 0 1 18.4 8L20 13v4H4v-4Z\"/><circle cx=\"7.5\" cy=\"13.5\" r=\"1\"/><circle cx=\"16.5\" cy=\"13.5\" r=\"1\"/></svg>"
+    },
+    {
+      "value": "Bus Service",
+      "en": "Bus Service",
+      "hi": "बस सेवा",
+      "descEn": "Bus enquiries for group travel, events and functions anywhere in Chhattisgarh. Share your route, group size and dates.",
+      "descHi": "छत्तीसगढ़ में कहीं भी ग्रुप यात्रा, इवेंट और समारोह के लिए बस। रूट, ग्रुप का आकार और तारीखें बताएं।",
+      "whoEn": [
+        "Wedding and event groups",
+        "School or college groups",
+        "Corporate outings",
+        "Family functions"
+      ],
+      "whoHi": [
+        "शादी और इवेंट ग्रुप",
+        "स्कूल या कॉलेज ग्रुप",
+        "कॉर्पोरेट यात्रा",
+        "पारिवारिक समारोह"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M3 11h18M8 5v6M16 5v6\"/><circle cx=\"7\" cy=\"16\" r=\"1\"/><circle cx=\"17\" cy=\"16\" r=\"1\"/></svg>"
+    },
+    {
+      "value": "Transport",
+      "en": "Transport",
+      "hi": "ट्रांसपोर्ट",
+      "descEn": "Passenger and goods transport across Chhattisgarh for practical day-to-day needs. Tell us what needs to move and where.",
+      "descHi": "छत्तीसगढ़ भर में रोज़मर्रा की ज़रूरतों के लिए यात्री और माल ढुलाई। बताएं क्या और कहां ले जाना है।",
+      "whoEn": [
+        "Goods movement enquiries",
+        "Material transport",
+        "Passenger transport",
+        "Local haulage"
+      ],
+      "whoHi": [
+        "माल ढुलाई",
+        "सामग्री परिवहन",
+        "यात्री परिवहन",
+        "स्थानीय ढुलाई"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M1 3h13v13H1zM14 8h4l3 3v5h-7z\"/><circle cx=\"5.5\" cy=\"18.5\" r=\"1.6\"/><circle cx=\"17.5\" cy=\"18.5\" r=\"1.6\"/></svg>"
+    },
+    {
+      "value": "Ambulance Service",
+      "en": "Ambulance Service",
+      "hi": "एम्बुलेंस सेवा",
+      "descEn": "Ambulance service in Chhattisgarh. For ambulance enquiries, please call directly — do not use the enquiry form.",
+      "descHi": "छत्तीसगढ़ में एम्बुलेंस सेवा। एम्बुलेंस के लिए कृपया सीधे कॉल करें — एन्क्वायरी फॉर्म का उपयोग न करें।",
+      "callFirst": true,
+      "alert": true,
+      "whoEn": [
+        "Please call directly",
+        "Do not use the enquiry form for ambulance needs",
+        "Call Kunal or Shivaji for immediate assistance"
+      ],
+      "whoHi": [
+        "कृपया सीधे कॉल करें",
+        "एम्बुलेंस के लिए एन्क्वायरी फॉर्म का उपयोग न करें",
+        "तत्काल सहायता के लिए कुणाल या शिवाजी को कॉल करें"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M3 11h11V7H3zM14 11h4l3 3v4h-7z\"/><path d=\"M10 4v4M7.5 5.5 10 8M12.5 5.5 10 8\"/><circle cx=\"6\" cy=\"18\" r=\"1.6\"/><circle cx=\"17.5\" cy=\"18\" r=\"1.6\"/></svg>"
+    },
+    {
+      "value": "Equipment",
+      "en": "Equipment",
+      "hi": "उपकरण",
+      "descEn": "Transport equipment hire across Chhattisgarh — tractor, harvester, JCB and other machinery. Share your site and requirement.",
+      "descHi": "छत्तीसगढ़ भर में उपकरण किराया — ट्रैक्टर, हार्वेस्टर, JCB और अन्य मशीनरी। अपनी जगह और ज़रूरत बताएं।",
+      "whoEn": [
+        "Agricultural work",
+        "Construction sites",
+        "Earthmoving",
+        "Harvesting requirements"
+      ],
+      "whoHi": [
+        "कृषि कार्य",
+        "निर्माण स्थल",
+        "मिट्टी खुदाई",
+        "हार्वेस्टिंग"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M14.7 6.3a4 4 0 0 1-5.4 5.4L4 17v3h3l5.3-5.3a4 4 0 0 1 5.4-5.4l-2.3 2.3 1.4 1.4 2.3-2.3\"/></svg>"
+    },
+    {
+      "value": "Tours",
+      "en": "Tours",
+      "hi": "टूर",
+      "descEn": "Family, group and multi-day tour travel in Chhattisgarh. Tell us where you want to go — we check what we can arrange.",
+      "descHi": "छत्तीसगढ़ में परिवार, ग्रुप और कई दिन के टूर। बताएं कहां जाना है — हम देखेंगे क्या व्यवस्था हो सकती है।",
+      "whoEn": [
+        "Family holidays",
+        "Group tours",
+        "Multi-day trips",
+        "Local sightseeing in Chhattisgarh"
+      ],
+      "whoHi": [
+        "पारिवारिक छुट्टियां",
+        "ग्रुप टूर",
+        "कई दिन की यात्रा",
+        "छत्तीसगढ़ में स्थानीय भ्रमण"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M9 20 3 17V6l6 3 6-3 6 3v11l-6-3-6 3Z\"/><path d=\"M9 9v11M15 6v11\"/></svg>"
+    },
+    {
+      "value": "Business Travel",
+      "en": "Business Travel",
+      "hi": "बिज़नेस ट्रेवल",
+      "descEn": "Reliable travel arrangements for work trips, meetings and business visits across Chhattisgarh.",
+      "descHi": "छत्तीसगढ़ भर में काम, मीटिंग और बिज़नेस यात्रा के लिए भरोसेमंद व्यवस्था।",
+      "whoEn": [
+        "Corporate travel",
+        "Client visits",
+        "Team movement",
+        "Airport transfers (subject to availability)"
+      ],
+      "whoHi": [
+        "कॉर्पोरेट यात्रा",
+        "क्लाइंट विज़िट",
+        "टीम मूवमेंट",
+        "एयरपोर्ट ट्रांसफर (उपलब्धता के अधीन)"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2\"/></svg>"
+    },
+    {
+      "value": "Wedding / Event Transport",
+      "en": "Wedding / Event Transport",
+      "hi": "शादी / इवेंट ट्रांसपोर्ट",
+      "descEn": "Vehicle arrangements for weddings, functions and events across Chhattisgarh. Share dates and guest movement needs.",
+      "descHi": "छत्तीसगढ़ भर में शादी, समारोह और इवेंट के लिए वाहन व्यवस्था। तारीखें और मेहमानों की ज़रूरत बताएं।",
+      "whoEn": [
+        "Wedding guest transport",
+        "Family functions",
+        "Event travel",
+        "Multi-vehicle needs"
+      ],
+      "whoHi": [
+        "शादी के मेहमानों की यात्रा",
+        "पारिवारिक समारोह",
+        "इवेंट यात्रा",
+        "कई वाहनों की ज़रूरत"
+      ],
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 1 0-7.8 7.8L12 21.4l8.8-8.9a5.5 5.5 0 0 0 0-7.9Z\"/></svg>"
+    }
+  ],
+  "FLEET": [
+    {
+      "name": "Ertiga",
+      "hi": "एर्टिगा",
+      "cat": "passenger",
+      "note": "Car preference for family and group travel across Chhattisgarh.",
+      "noteHi": "छत्तीसगढ़ भर में परिवार और ग्रुप यात्रा के लिए कार।"
+    },
+    {
+      "name": "Toofan",
+      "hi": "तूफान",
+      "cat": "utility",
+      "note": "Utility vehicle for practical routes.",
+      "noteHi": "व्यावहारिक रूट के लिए यूटिलिटी वाहन।"
+    },
+    {
+      "name": "Eco",
+      "hi": "ईको",
+      "cat": "utility",
+      "note": "Compact option for short local journeys.",
+      "noteHi": "छोटी लोकल यात्रा के लिए विकल्प।"
+    },
+    {
+      "name": "Bolero",
+      "hi": "बोलेरो",
+      "cat": "utility",
+      "note": "Sturdy option for mixed and rural routes.",
+      "noteHi": "मिश्रित और ग्रामीण रूट के लिए मज़बूत विकल्प।"
+    },
+    {
+      "name": "Scorpio",
+      "hi": "स्कॉर्पियो",
+      "cat": "passenger",
+      "note": "Comfortable option for longer Chhattisgarh journeys.",
+      "noteHi": "छत्तीसगढ़ की लंबी यात्रा के लिए आरामदायक विकल्प।"
+    },
+    {
+      "name": "Innova",
+      "hi": "इनोवा",
+      "cat": "passenger",
+      "note": "Preferred for family and outstation travel.",
+      "noteHi": "परिवार और आउटस्टेशन यात्रा के लिए।"
+    },
+    {
+      "name": "Bus",
+      "hi": "बस",
+      "cat": "group",
+      "note": "Group and event travel enquiries across Chhattisgarh.",
+      "noteHi": "छत्तीसगढ़ भर में ग्रुप और इवेंट यात्रा के लिए।"
+    },
+    {
+      "name": "Pickup",
+      "hi": "पिकअप",
+      "cat": "utility",
+      "note": "Goods and material movement enquiries.",
+      "noteHi": "माल और सामान ढुलाई के लिए।"
+    },
+    {
+      "name": "Ambulance",
+      "hi": "एम्बुलेंस",
+      "cat": "medical",
+      "note": "Call directly for ambulance enquiries in Chhattisgarh.",
+      "noteHi": "छत्तीसगढ़ में एम्बुलेंस के लिए सीधे कॉल करें।",
+      "alert": true
+    },
+    {
+      "name": "Tractor",
+      "hi": "ट्रैक्टर",
+      "cat": "equipment",
+      "note": "Agricultural and haulage enquiries.",
+      "noteHi": "खेती और ढुलाई संबंधी जानकारी।"
+    },
+    {
+      "name": "Harvester",
+      "hi": "हार्वेस्टर",
+      "cat": "equipment",
+      "note": "Harvesting equipment enquiries.",
+      "noteHi": "हार्वेस्टिंग उपकरण की जानकारी।"
+    },
+    {
+      "name": "JCB",
+      "hi": "जेसीबी",
+      "cat": "equipment",
+      "note": "Earthmoving equipment enquiries.",
+      "noteHi": "मिट्टी खुदाई उपकरण की जानकारी।"
+    }
+  ],
+  "FLEET_CATS": [
+    {
+      "id": "all",
+      "en": "All",
+      "hi": "सभी"
+    },
+    {
+      "id": "passenger",
+      "en": "Passenger Cars",
+      "hi": "यात्री कार"
+    },
+    {
+      "id": "utility",
+      "en": "Utility Vehicles",
+      "hi": "यूटिलिटी वाहन"
+    },
+    {
+      "id": "group",
+      "en": "Group Travel",
+      "hi": "ग्रुप यात्रा"
+    },
+    {
+      "id": "medical",
+      "en": "Medical",
+      "hi": "मेडिकल"
+    },
+    {
+      "id": "equipment",
+      "en": "Equipment",
+      "hi": "उपकरण"
+    }
+  ],
+  "CG_DISTRICTS": [
+    {
+      "en": "Raipur",
+      "hi": "रायपुर",
+      "note": "Capital city"
+    },
+    {
+      "en": "Bilaspur",
+      "hi": "बिलासपुर",
+      "note": "High Court city"
+    },
+    {
+      "en": "Durg",
+      "hi": "दुर्ग",
+      "note": "Industrial hub"
+    },
+    {
+      "en": "Bhilai",
+      "hi": "भिलाई",
+      "note": "Steel city"
+    },
+    {
+      "en": "Korba",
+      "hi": "कोरबा",
+      "note": "Power hub"
+    },
+    {
+      "en": "Jagdalpur",
+      "hi": "जगदलपुर",
+      "note": "Bastar region"
+    },
+    {
+      "en": "Rajnandgaon",
+      "hi": "राजनांदगांव",
+      "note": "Western CG"
+    },
+    {
+      "en": "Raigarh",
+      "hi": "रायगढ़",
+      "note": "Industrial"
+    },
+    {
+      "en": "Ambikapur",
+      "hi": "अम्बिकापुर",
+      "note": "Surguja region"
+    },
+    {
+      "en": "Dhamtari",
+      "hi": "धमतरी",
+      "note": "Central CG"
+    },
+    {
+      "en": "Mahasamund",
+      "hi": "महासमुंद",
+      "note": "Central CG"
+    },
+    {
+      "en": "Kawardha",
+      "hi": "कवर्धा",
+      "note": "Kabirdham"
+    },
+    {
+      "en": "Kanker",
+      "hi": "कांकेर",
+      "note": "Bastar division"
+    },
+    {
+      "en": "Dantewada",
+      "hi": "दंतेवाड़ा",
+      "note": "Maa Danteshwari Temple"
+    },
+    {
+      "en": "Bastar",
+      "hi": "बस्तर",
+      "note": "Chitrakote Falls"
+    },
+    {
+      "en": "Bijapur",
+      "hi": "बीजापुर",
+      "note": "South Bastar"
+    },
+    {
+      "en": "Sukma",
+      "hi": "सुकमा",
+      "note": "South Bastar"
+    },
+    {
+      "en": "Narayanpur",
+      "hi": "नारायणपुर",
+      "note": "Abujhmarh"
+    },
+    {
+      "en": "Kondagaon",
+      "hi": "कोंडागांव",
+      "note": "Bastar division"
+    },
+    {
+      "en": "Balod",
+      "hi": "बालोद",
+      "note": "Central CG"
+    },
+    {
+      "en": "Baloda Bazar",
+      "hi": "बलौदा बाज़ार",
+      "note": "Central CG"
+    },
+    {
+      "en": "Bemetara",
+      "hi": "बेमेतरा",
+      "note": "Central CG"
+    },
+    {
+      "en": "Mungeli",
+      "hi": "मुंगेली",
+      "note": "Central CG"
+    },
+    {
+      "en": "Janjgir-Champa",
+      "hi": "जांजगीर-चांपा",
+      "note": "Central CG"
+    },
+    {
+      "en": "Jashpur",
+      "hi": "जशपुर",
+      "note": "Northern CG"
+    },
+    {
+      "en": "Surguja",
+      "hi": "सरगुजा",
+      "note": "Northern CG"
+    },
+    {
+      "en": "Koriya",
+      "hi": "कोरिया",
+      "note": "Northern CG"
+    },
+    {
+      "en": "Surajpur",
+      "hi": "सूरजपुर",
+      "note": "Northern CG"
+    }
+  ],
+  "ROUTES": [
+    {
+      "from": "Tilda Newra",
+      "to": "Raipur",
+      "descEn": "Our base to Chhattisgarh capital",
+      "descHi": "हमारा केंद्र से छत्तीसगढ़ की राजधानी"
+    },
+    {
+      "from": "Raipur",
+      "to": "Bilaspur",
+      "descEn": "Capital to High Court city",
+      "descHi": "राजधानी से उच्च न्यायालय शहर"
+    },
+    {
+      "from": "Raipur",
+      "to": "Bhilai",
+      "descEn": "Capital to Steel City",
+      "descHi": "राजधानी से स्टील सिटी"
+    },
+    {
+      "from": "Raipur",
+      "to": "Durg",
+      "descEn": "Capital to Durg district",
+      "descHi": "राजधानी से दुर्ग जिला"
+    },
+    {
+      "from": "Raipur",
+      "to": "Jagdalpur",
+      "descEn": "Capital to Bastar region",
+      "descHi": "राजधानी से बस्तर क्षेत्र"
+    },
+    {
+      "from": "Raipur",
+      "to": "Dongargarh",
+      "descEn": "Pilgrimage route",
+      "descHi": "तीर्थ यात्रा मार्ग"
+    },
+    {
+      "from": "Bilaspur",
+      "to": "Korba",
+      "descEn": "Central to power hub",
+      "descHi": "मध्य से पावर हब"
+    },
+    {
+      "from": "Raipur",
+      "to": "Chitrakote",
+      "descEn": "To the Niagara of India",
+      "descHi": "भारत के नियाग्रा तक"
+    },
+    {
+      "from": "Raipur",
+      "to": "Dantewada",
+      "descEn": "To Maa Danteshwari Temple",
+      "descHi": "मां दंतेश्वरी मंदिर तक"
+    },
+    {
+      "from": "Raipur",
+      "to": "Ambikapur",
+      "descEn": "Capital to Surguja",
+      "descHi": "राजधानी से सरगुजा"
+    }
+  ],
+  "DESTINATIONS": [
+    {
+      "name": "Chitrakote Falls",
+      "nameHi": "चित्रकोट जलप्रपात",
+      "loc": "Bastar",
+      "locHi": "बस्तर",
+      "descEn": "Known as the Niagara of India. Popular tourist destination in Bastar district.",
+      "descHi": "भारत का नियाग्रा कहा जाता है। बस्तर जिले का लोकप्रिय पर्यटन स्थल।"
+    },
+    {
+      "name": "Tirathgarh Falls",
+      "nameHi": "तीरथगढ़ जलप्रपात",
+      "loc": "Kanger Valley, Bastar",
+      "locHi": "कांगेर घाटी, बस्तर",
+      "descEn": "Multi-tiered waterfall inside Kanger Valley National Park.",
+      "descHi": "कांगेर घाटी राष्ट्रीय उद्यान के भीतर बहुस्तरीय जलप्रपात।"
+    },
+    {
+      "name": "Maa Danteshwari Temple",
+      "nameHi": "मां दंतेश्वरी मंदिर",
+      "loc": "Dantewada",
+      "locHi": "दंतेवाड़ा",
+      "descEn": "One of the 52 Shakti Peethas. Major pilgrimage site in Chhattisgarh.",
+      "descHi": "52 शक्ति पीठों में से एक। छत्तीसगढ़ का प्रमुख तीर्थ स्थल।"
+    },
+    {
+      "name": "Dongargarh Temple",
+      "nameHi": "डोंगरगढ़ मंदिर",
+      "loc": "Rajnandgaon",
+      "locHi": "राजनांदगांव",
+      "descEn": "Maa Bamleshwari Temple on a hilltop. Popular pilgrimage destination.",
+      "descHi": "पहाड़ी पर मां बम्लेश्वरी मंदिर। लोकप्रिय तीर्थ स्थल।"
+    },
+    {
+      "name": "Kanger Valley National Park",
+      "nameHi": "कांगेर घाटी राष्ट्रीय उद्यान",
+      "loc": "Bastar",
+      "locHi": "बस्तर",
+      "descEn": "National park with caves and waterfalls. Home to Kutumsar Caves.",
+      "descHi": "गुफाओं और जलप्रपातों वाला राष्ट्रीय उद्यान। कुटुमसर गुफाएं।"
+    },
+    {
+      "name": "Sirpur",
+      "nameHi": "सिरपुर",
+      "loc": "Mahasamund",
+      "locHi": "महासमुंद",
+      "descEn": "Ancient archaeological site with Buddhist and Hindu monuments.",
+      "descHi": "बौद्ध और हिंदू स्मारकों वाला प्राचीन पुरातत्व स्थल।"
+    },
+    {
+      "name": "Rajim",
+      "nameHi": "राजिम",
+      "loc": "Gariaband",
+      "locHi": "गरियाबंद",
+      "descEn": "Known as Chhattisgarh's Prayag. Rajiv Lochan Temple and Kuleshwar Mahadev.",
+      "descHi": "छत्तीसगढ़ का प्रयाग। राजीव लोचन मंदिर और कुलेश्वर महादेव।"
+    },
+    {
+      "name": "Bhoramdev Temple",
+      "nameHi": "भोरमदेव मंदिर",
+      "loc": "Kawardha",
+      "locHi": "कवर्धा",
+      "descEn": "Ancient 11th-century Shiva temple. Protected ASI monument.",
+      "descHi": "प्राचीन 11वीं सदी का शिव मंदिर। एएसआई संरक्षित स्मारक।"
+    },
+    {
+      "name": "Achanakmar Sanctuary",
+      "nameHi": "अचानकमार अभयारण्य",
+      "loc": "Bilaspur",
+      "locHi": "बिलासपुर",
+      "descEn": "Tiger reserve and wildlife sanctuary on the Chhattisgarh-MP border.",
+      "descHi": "छत्तीसगढ़-मध्य प्रदेश सीमा पर बाघ अभयारण्य।"
+    }
+  ],
+  "FAQS": [
+    {
+      "qEn": "How do I book a vehicle with Maa Danteshwari Tour & Travels?",
+      "qHi": "मां दंतेश्वरी टूर एंड ट्रेवल्स से वाहन कैसे बुक करें?",
+      "aEn": "Submit a booking enquiry with your pickup, destination, travel date and requirements. Our team checks availability and contacts you with a quotation. Enquiries are not confirmed bookings.",
+      "aHi": "अपनी पिकअप, मंज़िल, यात्रा तिथि और ज़रूरतों के साथ बुकिंग एन्क्वायरी भेजें। हमारी टीम उपलब्धता जांचकर आपसे संपर्क करती है और कोटेशन देती है। एन्क्वायरी पक्की बुकिंग नहीं होती।"
+    },
+    {
+      "qEn": "Where can I enquire for a car from Tilda?",
+      "qHi": "टिल्डा से कार के लिए कहां पूछताछ कर सकते हैं?",
+      "aEn": "You can submit an enquiry from anywhere. Our base is Tilda Newra, Chhattisgarh, and customers can enquire from Tilda, Raipur, Bilaspur and other locations depending on the journey and vehicle availability.",
+      "aHi": "आप कहीं से भी एन्क्वायरी भेज सकते हैं। हमारा बेस टिल्डा नेवरा, छत्तीसगढ़ है, और यात्रा व वाहन उपलब्धता के अनुसार टिल्डा, रायपुर, बिलासपुर सहित अन्य जगहों से पूछताछ की जा सकती है।"
+    },
+    {
+      "qEn": "Does Maa Danteshwari provide bus service in Chhattisgarh?",
+      "qHi": "क्या मां दंतेश्वरी छत्तीसगढ़ में बस सेवा देती है?",
+      "aEn": "Yes. Bus service is one of our listed services across Chhattisgarh. Group, event and group travel bus enquiries are welcome. Please share your route and requirements so we can check availability.",
+      "aHi": "हाँ। छत्तीसगढ़ भर में बस सेवा हमारी सेवाओं में शामिल है। ग्रुप, इवेंट और सामूहिक यात्रा के लिए बस एन्क्वायरी भेज सकते हैं। कृपया रूट और ज़रूरतें बताएं।"
+    },
+    {
+      "qEn": "Does the company provide ambulance service in Chhattisgarh?",
+      "qHi": "क्या कंपनी छत्तीसगढ़ में एम्बुलेंस सेवा देती है?",
+      "aEn": "Yes, ambulance service is listed. For ambulance enquiries in Chhattisgarh, please call directly on +91 79702 28089 for immediate assistance rather than using the enquiry form.",
+      "aHi": "हाँ, एम्बुलेंस सेवा उपलब्ध है। छत्तीसगढ़ में एम्बुलेंस के लिए कृपया +91 79702 28089 पर सीधे कॉल करें, फॉर्म का उपयोग न करें।"
+    },
+    {
+      "qEn": "Can I request pickup and destination outside Tilda in Chhattisgarh?",
+      "qHi": "क्या छत्तीसगढ़ में टिल्डा के बाहर पिकअप और मंज़िल मांग सकते हैं?",
+      "aEn": "Yes. Pickup and destination are free-text fields. You can enter any route you need across Chhattisgarh — Raipur, Bilaspur, Durg, Bhilai, Jagdalpur, Ambikapur, Raigarh or anywhere else. We will confirm whether we can serve that journey.",
+      "aHi": "हाँ। पिकअप और मंज़िल फ्री-टेक्स्ट हैं। छत्तीसगढ़ में कोई भी रूट लिख सकते हैं — रायपुर, बिलासपुर, दुर्ग, भिलाई, जगदलपुर, अम्बिकापुर, रायगढ़ या कहीं भी।"
+    },
+    {
+      "qEn": "How is the fare decided for Chhattisgarh routes?",
+      "qHi": "छत्तीसगढ़ रूट के लिए किराया कैसे तय होता है?",
+      "aEn": "Price is available on enquiry. Fare depends on route, vehicle, duration and travel requirements, including trip type, passenger count, toll and parking where applicable, and actual availability.",
+      "aHi": "किराया पूछताछ पर बताया जाता है। यह रूट, वाहन, अवधि और यात्रा की ज़रूरतों पर निर्भर करता है।"
+    },
+    {
+      "qEn": "How do I contact Maa Danteshwari Tour & Travels?",
+      "qHi": "मां दंतेश्वरी टूर एंड ट्रेवल्स से संपर्क कैसे करें?",
+      "aEn": "Call or WhatsApp Kunal Banchhor on +91 79702 28089 or Shivaji Rao on +91 79876 46354, email maadanteshwaritravel@gmail.com, or submit the booking enquiry form on this website.",
+      "aHi": "कुणाल बंछोर को +91 79702 28089 या शिवाजी राव को +91 79876 46354 पर कॉल/व्हाट्सएप करें, maadanteshwaritravel@gmail.com पर ईमेल करें, या फॉर्म भरें।"
+    },
+    {
+      "qEn": "Which districts of Chhattisgarh does Maa Danteshwari serve?",
+      "qHi": "मां दंतेश्वरी छत्तीसगढ़ के किन जिलों में सेवा देती है?",
+      "aEn": "We accept enquiries from all 28 districts of Chhattisgarh including Raipur, Bilaspur, Durg, Bhilai, Korba, Jagdalpur, Rajnandgaon, Ambikapur, Raigarh, Dhamtari, Mahasamund, Kawardha, Kanker and Tilda Newra. Whether we can serve a specific journey depends on route and vehicle availability.",
+      "aHi": "हम छत्तीसगढ़ के सभी 28 जिलों से एन्क्वायरी स्वीकार करते हैं — रायपुर, बिलासपुर, दुर्ग, भिलाई, कोरबा, जगदलपुर, राजनांदगांव, अम्बिकापुर, रायगढ़, धमतरी, महासमुंद, कवर्धा, कांकेर और टिल्डा नेवरा सहित।"
+    },
+    {
+      "qEn": "Can I book a vehicle for Chhattisgarh tourist destinations?",
+      "qHi": "क्या छत्तीसगढ़ के पर्यटन स्थलों के लिए वाहन बुक कर सकते हैं?",
+      "aEn": "Yes. Travellers commonly enquire for Chitrakote Falls, Tirathgarh Falls, Kanger Valley National Park, Maa Danteshwari Temple in Dantewada, Dongargarh, Sirpur, Rajim and other Chhattisgarh destinations. Share your travel plan and we will check availability.",
+      "aHi": "हाँ। चित्रकोट, तीरथगढ़, कांगेर घाटी, दंतेवाड़ा मंदिर, डोंगरगढ़, सिरपुर, राजिम और अन्य स्थलों के लिए पूछताछ आम है। अपनी योजना बताएं।"
+    },
+    {
+      "qEn": "Do you offer car rental in Raipur, Bilaspur and Bhilai?",
+      "qHi": "क्या आप रायपुर, बिलासपुर और भिलाई में कार रेंटल देते हैं?",
+      "aEn": "We accept car rental enquiries from Raipur, Bilaspur, Bhilai, Durg and across Chhattisgarh. Our base is Tilda Newra and whether we can serve a specific pickup depends on the journey and vehicle availability.",
+      "aHi": "हम रायपुर, बिलासपुर, भिलाई, दुर्ग और पूरे छत्तीसगढ़ से कार रेंटल एन्क्वायरी स्वीकार करते हैं। हमारा बेस टिल्डा नेवरा है।"
+    }
+  ]
+}
